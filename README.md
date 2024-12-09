@@ -1,5 +1,7 @@
-Linux Distribution Timeline | README
-------------------------------------
+Uncrufted Linux Distribution Timeline | README
+----------------------------------------------
+
+### Fork of https://github.com/FabioLolix/LinuxTimeline
 
 * Copyright (C) 2010-2012 Andreas Lundqvist, Donjan Rodic, Mohammed A. Mustafa
 * Copyright (C) 2016 Muhammad Herdiansyah
@@ -16,7 +18,7 @@ Original source: https://web.archive.org/web/20220403102136/http://futurist.se/g
 
 ### CONTRIBUTING
 
-See [CONTRIBUTING](https://github.com/FabioLolix/LinuxTimeline/blob/master/CONTRIBUTING)
+See [CONTRIBUTING](https://github.com/FabioLolix/Uncrufted-LinuxTimeline/blob/main/CONTRIBUTING)
 
 ### Installation
 
