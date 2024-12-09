@@ -1,6 +1,10 @@
 Uncrufted Linux Distributions Timeline | CHANGELOG
 ==================================================
 
+[NEXT]
+
+* Deleted ArchLabs (discontinued)
+
 24.10 2024.10.26
 * Blacklisted: Librassoc (too short lifetime)
 * Discontinued: CentOS (+2024-06-30)
