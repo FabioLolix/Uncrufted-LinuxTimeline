@@ -406,7 +406,6 @@
 "#N","BioBrew","#21896c","Red Hat","2004.1.20","2005.2.23",,"http://biobrew.bioinformatics.org/",,,,,,,,,
 "N","CERN","#4078c3","Red Hat","2004.4.16",,,"https://distroware.gitlab.io/os/Linux/c/cern",,,,,,,,,
 "N","Scientific Linux","#191756","Red Hat","2004.5.10","2024.06.30",,"https://distroware.gitlab.io/os/Linux/s/scientific",,,,,,,,,
-"N","StartCom","#000","Red Hat","2004.8.26","2012.07.08",,"https://distroware.gitlab.io/os/Linux/s/startcom",,,,,,,,,
 "N","Endian","#7cb900","Red Hat","2006.7.13",,,"https://distroware.gitlab.io/os/Linux/e/endian",,,,,,,,,
 "N","Oracle Enterprise","#f00","Red Hat","2006.10.25",,,"https://distroware.gitlab.io/os/Linux/o/oracle-linux","Oracle Linux","2007.6.26","https://distroware.gitlab.io/os/Linux/o/oracle-linux",,,,,,
 "//N","CloudLinux OS","#005DB4",,"2010.01",,,"https://distroware.gitlab.io/os/Linux/c/cloudlinux",,,,,,,,,
