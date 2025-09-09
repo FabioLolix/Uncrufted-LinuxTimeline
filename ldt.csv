@@ -84,7 +84,6 @@
 "N","Whoppix","#445fff","Knoppix","2004.8","2005.7.3",,"https://distroware.gitlab.io/os/Linux/w/whoppix",,,,,,,,,
 "N","ParallelKnoppix","#a0553c","Knoppix","2005.4.25","2008.3.1",,"https://distroware.gitlab.io/os/Linux/p/parallelknoppix",,,,,,,,,
 "N","Skolelinux","#e0b1b7","Debian","2001.7.2",,,"https://distroware.gitlab.io/os/Linux/d/debianedu","DebianEdu","2016.07.3","https://distroware.gitlab.io/os/Linux/d/debianedu",,,,,,
-"N","DeMuDi","#be41e3","Debian","2001.7.19","2006",,"https://distroware.gitlab.io/os/Linux/d/demudi",,,,,,,,,
 "N","Lindows","#3b806e","Debian","2001.8","2008.8.2",,"https://distroware.gitlab.io/os/Linux/l/linspire","Linspire","2004","https://distroware.gitlab.io/os/Linux/l/linspire",,,,,,
 "N","Freespire","#007197","Lindows","2006.4.24","2008.10.19",,"https://distroware.gitlab.io/os/Linux/f/freespire",,,,,,,,,
 "N","gnuLinEx","#30632a","Debian","2002.6.9","2011.12.31",,"https://distroware.gitlab.io/os/Linux/g/gnulinex",,,,,,,,,
