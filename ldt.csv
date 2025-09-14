@@ -78,7 +78,6 @@
 "N","Whoppix","#445fff","Knoppix","2004.8","2005.7.3",,"https://distroware.gitlab.io/os/Linux/w/whoppix",,,,,,,,,
 "N","ParallelKnoppix","#a0553c","Knoppix","2005.4.25","2008.3.1",,"https://distroware.gitlab.io/os/Linux/p/parallelknoppix",,,,,,,,,
 "N","Skolelinux","#e0b1b7","Debian","2001.7.2",,,"https://distroware.gitlab.io/os/Linux/d/debianedu","DebianEdu","2016.07.3","https://distroware.gitlab.io/os/Linux/d/debianedu",,,,,,
-"N","gnuLinEx","#30632a","Debian","2002.6.9","2011.12.31",,"https://distroware.gitlab.io/os/Linux/g/gnulinex",,,,,,,,,
 "N","MEPIS","#8598c0","Debian","2003.5","2016.07.29",,"https://distroware.gitlab.io/os/Linux/m/mepis","SimplyMEPIS","2004.9.7","https://distroware.gitlab.io/os/Linux/m/mepis",,,,,,
 "N","antiX","#443300","MEPIS","2007.8.22",,,"https://distroware.gitlab.io/os/Linux/a/antix",,,,,,,,,
 "N","DRBL","#333","Debian","2004.4.1",,,"https://distroware.gitlab.io/os/Linux/d/drbl",,,,,,,,,
