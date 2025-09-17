@@ -146,7 +146,6 @@
 "N","OpenMediaVault","#75777a","Debian","2011.10.17",,,"https://distroware.gitlab.io/os/Linux/o/openmediavault",,,,,,,,,
 "N","TurnKey","#d49773","Debian","2011.12.6",,,"https://distroware.gitlab.io/os/Linux/t/turnkey",,,,,,,,,
 "N","SolusOS","#757A75","Debian","2012.05.07","2013.10.28",,"https://distroware.gitlab.io/os/Linux/s/solusos",,,,,,,,,
-"N","Xamin","#448bb8","Debian","2012.5.14",,,"https://distroware.gitlab.io/os/Linux/x/xamin",,,,,,,,,
 "N","YunoHost","#111111","Debian","2012.5.31",,,"https://distroware.gitlab.io/os/Linux/y/yunohost",,,,,,,,,
 "N","Raspbian","#c61931","Debian","2012.6",,,"https://distroware.gitlab.io/os/Linux/r/raspberry-pi-os","Raspberry Pi OS","2020.05.28","https://distroware.gitlab.io/os/Linux/r/raspberry-pi-os",,,,,,
 "N","Raspyfi","#48bd87","Raspbian","2012.12.21","2013.09.07",,"https://distroware.gitlab.io/os/Linux/v/volumio",,,,,,,,,
